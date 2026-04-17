@@ -325,7 +325,7 @@ GitHub: [Your GitHub]
 For questions or support, please:
 - Open an issue on GitHub
 - Email: yogeshkumar20369@gmail.com
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/yogesh-k-gowda-18638231b
 
 ---
 
