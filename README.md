@@ -1,10 +1,7 @@
 # 🤖 AI Job Automation Risk Prediction System
 
 ## Project Overview
-
-**Author:** Yogesh K  
-**SRN:** PES1PG25CA440  
-**Institution:** PES University  
+ 
 **Project Domain:** Predicting AI Impact on Jobs and Future Automation Risk  
 **SDG Goal:** 17 - Partnerships for the Goals
 
