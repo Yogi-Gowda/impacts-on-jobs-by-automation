@@ -56,7 +56,7 @@ Automation Risk is categorized into three classes:
 - **Medium Risk:** 34-66%
 - **High Risk:** 67-100%
 
-## 🚀 Project Structure
+<!-- ## 🚀 Project Structure
 
 ```
 AI_Job_Automation_Project/
@@ -95,7 +95,7 @@ AI_Job_Automation_Project/
 │
 └── app.py                           # Streamlit web application
 ```
-
+-->
 ## 💻 Installation & Setup
 
 ### Prerequisites
@@ -156,7 +156,7 @@ streamlit run app.py
 ```
 
 The app will open in your browser at `http://localhost:8501`
-
+<!--
 ## 🌐 Deployment
 
 ### Option 1: Streamlit Cloud (Recommended)
@@ -205,7 +205,7 @@ enableCORS = false\n\
 \n\
 " > ~/.streamlit/config.toml
 ```
-
+-->
 3. Deploy using Heroku CLI
 
 ## 📊 Features
