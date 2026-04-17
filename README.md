@@ -324,8 +324,8 @@ GitHub: [Your GitHub]
 
 For questions or support, please:
 - Open an issue on GitHub
-- Email: [your-email]
-- LinkedIn: [your-profile]
+- Email: yogeshkumar20369@gmail.com
+- LinkedIn: 
 
 ---
 
